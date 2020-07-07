@@ -1,0 +1,22 @@
+C:\Users\cricks\AppData\Local\Temporary Projects\Files_Server_Move\bin\Debug\Files_Server_Move.exe.config
+C:\Users\cricks\AppData\Local\Temporary Projects\Files_Server_Move\bin\Debug\Files_Server_Move.exe
+C:\Users\cricks\AppData\Local\Temporary Projects\Files_Server_Move\bin\Debug\Files_Server_Move.pdb
+C:\Users\cricks\AppData\Local\Temporary Projects\Files_Server_Move\bin\Debug\Files_Server_Move.xml
+C:\Users\cricks\AppData\Local\Temporary Projects\Files_Server_Move\obj\Debug\Files_Server_Move.vbprojAssemblyReference.cache
+C:\Users\cricks\AppData\Local\Temporary Projects\Files_Server_Move\obj\Debug\Files_Server_Move.Resources.resources
+C:\Users\cricks\AppData\Local\Temporary Projects\Files_Server_Move\obj\Debug\Files_Server_Move.vbproj.GenerateResource.cache
+C:\Users\cricks\AppData\Local\Temporary Projects\Files_Server_Move\obj\Debug\Files_Server_Move.vbproj.CoreCompileInputs.cache
+C:\Users\cricks\AppData\Local\Temporary Projects\Files_Server_Move\obj\Debug\Files_Server_Move.exe
+C:\Users\cricks\AppData\Local\Temporary Projects\Files_Server_Move\obj\Debug\Files_Server_Move.xml
+C:\Users\cricks\AppData\Local\Temporary Projects\Files_Server_Move\obj\Debug\Files_Server_Move.pdb
+C:\Users\cricks\source\repos\Files_Server_Move\Files_Server_Move\bin\Debug\Files_Server_Move.exe.config
+C:\Users\cricks\source\repos\Files_Server_Move\Files_Server_Move\bin\Debug\Files_Server_Move.exe
+C:\Users\cricks\source\repos\Files_Server_Move\Files_Server_Move\bin\Debug\Files_Server_Move.pdb
+C:\Users\cricks\source\repos\Files_Server_Move\Files_Server_Move\bin\Debug\Files_Server_Move.xml
+C:\Users\cricks\source\repos\Files_Server_Move\Files_Server_Move\obj\Debug\Files_Server_Move.vbprojAssemblyReference.cache
+C:\Users\cricks\source\repos\Files_Server_Move\Files_Server_Move\obj\Debug\Files_Server_Move.Resources.resources
+C:\Users\cricks\source\repos\Files_Server_Move\Files_Server_Move\obj\Debug\Files_Server_Move.vbproj.GenerateResource.cache
+C:\Users\cricks\source\repos\Files_Server_Move\Files_Server_Move\obj\Debug\Files_Server_Move.vbproj.CoreCompileInputs.cache
+C:\Users\cricks\source\repos\Files_Server_Move\Files_Server_Move\obj\Debug\Files_Server_Move.exe
+C:\Users\cricks\source\repos\Files_Server_Move\Files_Server_Move\obj\Debug\Files_Server_Move.xml
+C:\Users\cricks\source\repos\Files_Server_Move\Files_Server_Move\obj\Debug\Files_Server_Move.pdb
